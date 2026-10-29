@@ -13,7 +13,7 @@ You may be in our index. This is what that means for you:
 - **What we hold:** only what you have already made public — your GitHub profile and activity, or your papers and affiliations. We never access private repositories or look for private contact details. [Full details](https://vervista.com/privacy#public-data)
 - **Who sees it:** signed-in users of Vista only. There are no public people pages.
 - **How anyone reaches you:** from their own mailbox. Vista never sends a message on anyone's behalf.
-- **Leaving:** write to info@vervista.com with your profile link or username, and we remove you. No reason needed. We keep only the identifier that keeps you out.
+- **Leaving:** remove yourself at [vervista.com/removal](https://vervista.com/removal) — sign in with GitHub or ORCID to confirm it's you — or write to info@vervista.com. No reason needed. We keep only the identifier that keeps you out.
 
 ## Links
 
